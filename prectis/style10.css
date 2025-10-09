@@ -1,0 +1,92 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}   
+#hero{
+    color: white;
+    padding-top: 10px;
+    background-color: rgb(5, 5, 66);
+    text-align: center;
+}
+#hero h3{
+    padding-bottom: 20px;
+}
+#zero{
+    text-align: center;
+    margin-top: 10px;
+    margin: 10px 100px 0px 100px;
+    background-color: rgb(179, 156, 156);
+    padding-top: 10px;
+}
+#size{
+    text-align: center;
+    margin: 0px 100px 0px 100px;
+    
+    background-color: rgb(179, 156, 156);
+    padding-bottom: 10px;
+
+}
+#one{
+    margin-top: 10px;
+    margin: 10px 100px 0px 100px;
+    text-align: center;
+    padding-top: 10px;
+    background-color: skyblue;
+}
+
+#three{
+    margin-top: 10px;
+    margin: 10px 100px 0px 100px;
+    text-align: center;
+    padding-top: 10px;
+    background-color: rgba(200, 214, 9, 0.815);
+}
+#four{
+    text-align: center;
+    
+    list-style-type: none;
+    margin: 0px 100px 0px 100px;
+    padding-bottom: 10px;
+    background-color: rgb(200, 214, 9,0.815);
+}
+#five{
+    margin-top: 10px;
+    margin: 10px 100px 0px 100px;
+    text-align: center;
+    padding-top: 10px;
+    background-color: rgb(231, 87, 135);
+}
+#six{
+    text-align: center;
+    list-style-type: none;
+    margin: 0px 100px 0px 100px;
+    padding-bottom: 10px;
+    background-color: rgb(231, 87, 135);
+}
+#seven{
+    margin-top: 10px;
+    margin: 10px 100px 0px 100px;
+    text-align: center;
+    padding-top: 10px;
+    background-color: rgb(31, 173, 107);
+}
+#eight{
+    text-align: center;
+    margin: 0px 100px 0px 100px;
+    padding-bottom: 10px;
+    background-color: rgb(31, 173, 107);
+}
+#nine{
+    margin-top: 10px;
+    margin: 10px 100px 0px 100px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    background-color: rgb(17, 17, 17);
+}
