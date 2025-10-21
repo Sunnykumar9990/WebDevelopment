@@ -1,0 +1,19 @@
+*{
+    margin: 200px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+html,body{
+    background-color: black;
+    color: white;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+h1{
+    text-align: center; 
+    padding: left 200px;
+}
